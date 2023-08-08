@@ -28,7 +28,7 @@
 ❄️ Ask me about **JavaScript, React, TypeScript, Angular**
 
 ---
-<h2 align="center">🀄️ Languages | Frameworks | Desing Tools 🀄️</h2>
+<h2 align="center">🀄️ Languages | Frameworks & DB's | Desing Tools 🀄️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,mysql,express,angular,nodejs,react,git&theme=dark" />
