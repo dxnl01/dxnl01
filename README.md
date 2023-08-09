@@ -35,6 +35,13 @@
         <img src="https://skillicons.dev/icons?i=html,css,figma,ai,github,vscode,cpp,powershell,bash&theme=dark" />
     </a>
 </div>
+---
+<h2 align="center"> 🔝 Stats 🔝</h2>
+   <div align="center">
+    <img width="390" src="https://streak-stats.demolab.com/?user=dxnl01&theme=violet-dark&count_private=true%border_radius=10" alt="streak stats" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=dxnl01&theme=neon&show_icons=true" alt="readme stats" />
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnl01&layout=compact&theme=neon" alt="top langs" />
+   </div>
 
 ---
 <div align="center">
